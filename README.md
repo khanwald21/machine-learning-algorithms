@@ -1,2 +1,4 @@
 # machine-learning-algorithms
-Major Algorithms used in machine learning
+#some algorithms that are commonly used to classify data 
+# The KNN is useful to unsupervised learnig
+
